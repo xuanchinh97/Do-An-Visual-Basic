@@ -24,11 +24,9 @@ git clone https://github.com/xuanchinh97/Do-An-Visual-Basic.git
 https://youtube.com/playlist?list=PL9xOHE9fTEnAwRJI1VWAYPCpu-FFoKj68
 
 ### Screenshot
-![Screenshot](./qlNhansu/img/pic1.png)
-![Screenshot](./qlNhansu/img/pic2.png)
-![Screenshot](./qlNhansu/img/pic3.png)
-![Screenshot](./qlNhansu/img/pic4.png)
-![Screenshot](./qlNhansu/img/pic5.png)
-![Screenshot](./qlNhansu/img/pic6.png)
-
-
+![Screenshot](https://github.com/xuanchinh97/Do-An-Visual-Basic/blob/main/qlNhansu/img/pic1.png?raw=true)
+![Screenshot](https://github.com/xuanchinh97/Do-An-Visual-Basic/blob/main/qlNhansu/img/pic2.png?raw=true)
+![Screenshot](https://github.com/xuanchinh97/Do-An-Visual-Basic/blob/main/qlNhansu/img/pic3.png?raw=true)
+![Screenshot](https://github.com/xuanchinh97/Do-An-Visual-Basic/blob/main/qlNhansu/img/pic4.png?raw=true)
+![Screenshot](https://github.com/xuanchinh97/Do-An-Visual-Basic/blob/main/qlNhansu/img/pic5.png?raw=true)
+![Screenshot](https://github.com/xuanchinh97/Do-An-Visual-Basic/blob/main/qlNhansu/img/pic6.png?raw=true)
